@@ -8,7 +8,7 @@ SXAM logs:<br/>
 * **Humidity**
 * **Temperature**
 * **Ambient noise**
-* **Brightness**
+* **Brightness**<br/>
 It also display the ambient status by using for **RGB leds**.<br/>
 
 Copyright
