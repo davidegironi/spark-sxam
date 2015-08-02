@@ -1,6 +1,6 @@
 //default xively feed and api
-#define XIVELY_FEEDID "1185866697"
-#define XIVELY_APIKEY "DPTFK8GMoS9LXhqIJdqEuM8nko6tve5h6DYBNGWJEyT6iYCx"
+#define XIVELY_FEEDID "YOURFEEDIDHERE"
+#define XIVELY_APIKEY "YOURAPIKEYHERE"
 
 //debug to serial port
 #define UARTDEBUG 1
